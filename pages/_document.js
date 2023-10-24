@@ -2,8 +2,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Goa Trip is on!!',
-    description: 'dil chahta hai ek goa trip before college ends',
+    title: 'Goa Done!!🍻🏖️✅',
+    description: 'Vegas next time!🕺🪩',
     image: 'https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/9/2017/01/DilChahtaHai-f.jpg'
   }
 
